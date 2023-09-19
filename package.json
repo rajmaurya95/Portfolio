@@ -1,5 +1,5 @@
 {
-  "homepage": "http://rajmaurya95.github.io/Portfolio/",
+  "homepage": "http://rajmaurya95.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -29,7 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "clean" : "gh-pages-clean"
+    "clean": "gh-pages-clean"
   },
   "eslintConfig": {
     "extends": [
